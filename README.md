@@ -6,35 +6,63 @@
 
 ---
 
-🧰 Toolbox
+Skills em Linux, Windows, DevOps e Cloud, amante de tecnologia, filmes, séries, livros e música. Sonhador e movido a desafios.
+ 
+:books: Estudando: Azure, GCP, AWS, DevOps
 
-### Opensource tools:
-
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux logo" width="70" height="70"/> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker logo" width="70" height="70"/>  <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible logo" width="70" height="70"/> <img src="https://cdn.worldvectorlogo.com/logos/zabbix-1.svg" alt="Zabbix logo" width="70" height="70"/> <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="Linux logo" width="70" height="70"/> <img src="https://cdn.worldvectorlogo.com/logos/gitkraken.svg" alt="GitKraken logo" width="70" height="70"/>
-
-### Cloud Providers: 
-
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-2.svg" alt="Azure logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle logo" width="70" height="70"/> 
-
-### Text Editor:
-
-<img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime Text logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Vscode logo" width="50" height="50"/> 
-
-### Messaging:
-
-<img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="Telegram logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/discord.svg" alt="Discord logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams.svg" alt="Teams logo" width="50" height="50"/> 
-
-
+- Certificações:
+  - Microsoft Certified: Azure Fundamentals
+  - Oracle Cloud Infrastructure Foundations 2020 Certified Associate
+  - Oracle Cloud Infrastructure 2019 Certified Architect Associate
+  - NSE 1 Network Security Associate
+  - NSE 2 Network Security Associate
+  
+- ⚡ Curiosidades:
+  - Adoro plantas
+  - Não gosto de futebol
+  - Amo fotografia
+  - Amo Meliponicultura
 ---
+ 
+  ## Algumas Tecnologias utilizadas:
 
-## &#x1f4c8; My GitHub Stats
+  ### Infraestrutura:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelobaptista&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelobaptista&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  ### Versionamento:
+
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/-GitLab-eeeded?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=for-the-badge&logo=github&logoColor=black)
+    
+  ### Editores:
+
+  ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-grey?style=for-the-badge&logo=sublime-text&logoColor=orange)
+  
+  ### Cloud:
+
+  ![Microsoft Azure](https://img.shields.io/badge/-Microsof%20Azure-blue?style=for-the-badge&logo=windows&logoColor=white)
+  ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-red?style=for-the-badge&logo=oracle&logoColor=white)
+  ![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon-aws)
+  
+  ### Monitoração:
+
+  ![Zabbix](https://img.shields.io/badge/-Zabbix-red?style=for-the-badge&logo=zabbix&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/-Grafana-orange?style=for-the-badge&logo=grafana&logoColor=white)
+  
+  ### Automação:
+
+  ![Ansible](https://img.shields.io/badge/-Ansible-grey?style=for-the-badge&logo=ansible&logoColor=white)
+  ![Shell Script](https://img.shields.io/badge/-Shell%20Script-black?style=for-the-badge&logo=shell&logoColor=white)
 
 
+  ### Comunicação:
 
-
-
-
+  ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams%20-464EB8?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+  ![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)
+  ![Discord](https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)
+---  
+  
+  
