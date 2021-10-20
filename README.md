@@ -12,7 +12,7 @@ Skills em Linux, Windows, DevOps e Cloud, amante de tecnologia, filmes, séries,
 
 - Certificações:
   - Microsoft Certified: Azure Fundamentals
-  - Oracle Cloud Infrastructure Foundations 2020 Certified Associate
+  - Oracle Cloud Infrastructure Foundations 2021 Certified Associate
   - Oracle Cloud Infrastructure 2019 Certified Architect Associate
   - NSE 1 Network Security Associate
   - NSE 2 Network Security Associate
