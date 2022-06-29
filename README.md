@@ -8,7 +8,7 @@
 
 Skills em Linux, Windows, DevOps e Cloud, amante de tecnologia, filmes, séries, livros e música. Sonhador e movido a desafios.
  
-:books: Estudando: Azure, GCP, AWS, DevOps
+:books: Estudando: Azure, AWS, DevOps
 
 - Certificações:
   - Microsoft Certified: Azure Fundamentals
